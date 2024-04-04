@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    background-attachment:fixed;
+    font-family:cursive;
+}
+.breadcrumb-item{
+    padding-left: 30px;
+    font-size: small;
+}
+.page-container h1{
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.form-heading{
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 400;
+    color: rgb(246, 5, 5);
+}
+
+.form-details {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+    justify-content: center;
+  }
+  
+  input[type="text"], input[type="email"], input[type="tel"], textarea, select {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    justify-content: center;
+  }
+  
+  input[type="checkbox"] {
+    margin-right: 40px;
+    justify-content: center;
+    overflow: hidden;
+  }
+  
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  label span {
+    margin-left: 20px;
+    font-weight: bold;
+  }
+  
+  #totalPrice {
+    font-weight: bold;
+  }
+  .form-details h5{
+    text-align: center;
+    padding-top: 10px;
+  }
+  .form-control{
+    align-self: center;
+  }
+  .note1{
+    color: rgb(195, 33, 33);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    font-style: italic;
+    font-weight: 400;
+  }
+  .note2{
+    font-weight: bold;
+  }
+  input.invalid, textarea.invalid {
+    border: 1px solid red;
+  }
+  img {
+    vertical-align: middle;
+  }
+  
+  #totalPrice {
+    font-weight: bold;
+  }
+  
+  #thankYouMessage {
+    text-align: center;
+  }

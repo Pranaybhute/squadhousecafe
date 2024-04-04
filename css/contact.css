@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    background-attachment:fixed;
+    font-family:cursive;
+    justify-content: center;
+}
+.heading{
+    text-align: center;
+    padding: 60px;
+    font-family:fantasy;
+    color: rgb(7, 7, 9);
+    font-size: 40px;
+}
+.dropdown-item img{
+    padding-left: 7px;
+}
+.breadcrumb-item{
+    padding-left: 30px;
+    font-size: small;
+}
+.navbar .nav-link{
+    color: black;
+}
+.page-container h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    overflow: hidden;
+    margin: 30px;
+}
+.page-container2 h1{
+    margin-top: 15px;
+    text-align: center;
+    margin: 30px;
+}
+.page-container2 .card{
+color: rgb(137, 43, 43);
+text-decoration: dashed;
+display: block;
+box-shadow:black;
+margin: auto;
+}
+.page-container2 .card-title{
+    color: rgb(249, 13, 5);
+    font-weight: bold;
+}
+.coloumn .social{
+    margin-right: 17px;
+}
+.page-container img{
+    margin: auto;
+}
+.page-container h5{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.page-container{
+    justify-content: center;
+}
